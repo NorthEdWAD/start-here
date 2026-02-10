@@ -14,3 +14,16 @@
 
 ---
 
+## 📖 Class Units
+
+<details>
+<summary><strong>Unit summary (Click to expand)</strong></summary>
+### Unit 01: Unit Title
+</details>
+
+<details>
+<summary><strong>Unit summary (Click to expand)</strong></summary>
+### Unit 02: Unit Title
+</details>
+
+---
