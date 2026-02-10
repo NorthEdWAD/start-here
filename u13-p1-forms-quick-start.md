@@ -49,7 +49,7 @@ If you want your form to actually work like a real form, remember this:
 
 ## 🛑 Troubleshooting 
 
-**Did your form not work? Check for these three common form mistakes:**
+**Did your form not work? Check for these common form mistakes:**
 
 1. **No SUBMIT utton?** Make sure you type your `<button>` element *before* the `</form>` tag.
 2. **Email form field not validating?** Make sure you typed `type="email"`, not `type="mail"`.
