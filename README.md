@@ -19,20 +19,20 @@
 Click the arrow to view the unit info.
 <details>
   <summary>Unit 01: HTML</summary>
-  - Project 002: [My Project Repo](https://github.com/user/repo)   
-  - Project 001: [My Project Repo](https://github.com/user/repo)
+    - Project 002: [My Project Repo](https://github.com/user/repo)   
+    - Project 001: [My Project Repo](https://github.com/user/repo)
 </details>
 
 <details>
   <summary>Unit 01: CSS</summary>
-  - Project 002: [My Project Repo](https://github.com/user/repo)     
-  - Project 001: [My Project Repo](https://github.com/user/repo)
+    - Project 002: [My Project Repo](https://github.com/user/repo)     
+    - Project 001: [My Project Repo](https://github.com/user/repo)
 </details>
 
 <details>
   <summary>Unit 01: JavaScript</summary>
-  - Project 002: [My Project Repo](https://github.com/user/repo)  
-  - Project 001: [My Project Repo](https://github.com/user/repo)
+    - Project 002: [My Project Repo](https://github.com/user/repo)  
+    - Project 001: [My Project Repo](https://github.com/user/repo)
 </details>
 
 ---
