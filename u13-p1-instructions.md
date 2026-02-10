@@ -1,5 +1,5 @@
 # Unit 13: HTML Forms
-## Lab / Shipping Form
+## Lab: Simple Shipping Form
 
 ---
 
