@@ -11,7 +11,7 @@
 
 ### 🚀 Starter Code
 **Step 1:** Open your code editor.  
-**Step 2:** Use the starter code below to begin your project.
+**Step 2:** Use the starter code below to get started on your project.
 
 💾 [Email form field example](https://gist.github.com/bengal865/095aec40bc6f3fe0df1fcaf4f120f002)  
 💾 [Text form field example](https://gist.github.com/bengal865/5b70d11472f2bda37e0b431dbdb8dc42)  
