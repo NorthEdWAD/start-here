@@ -2,7 +2,7 @@
 
 ## 🚀 Quick Start: A Bare Bones Web Form
 
-To make a form, you only need three things: the **Container**, the **Inputs**, and the **Submit Button**.
+To make a web form, you only need three things: the **container**, the **inputs**, and the **submit button**.
 
 ### 1. The Container (`<form>`)
 
