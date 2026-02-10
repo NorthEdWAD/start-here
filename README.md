@@ -16,16 +16,10 @@
 
 ## 📖 Class Units
 
-[Unit Title](https://github.com/NorthEdWAD/test-repo2)
 <details>
-<summary><strong>Unit summary (Click to expand)</strong></summary>
-- Text
-</details>
-
-[Unit Title](https://github.com/NorthEdWAD/test-repo2)
-<details>
-<summary><strong>Unit summary (Click to expand)</strong></summary>
-- Text 
+  <summary>Click to view the repository</summary>
+  
+  Check out the source code here: [My Project Repo](https://github.com/user/repo)
 </details>
 
 ---
