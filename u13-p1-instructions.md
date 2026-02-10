@@ -20,7 +20,7 @@
 ### 💡 Additional Resources  
 📚 Reading  
 🎥 Video  
-🔗 [W3C Markup Validation Service](https://validator.w3.org/detailed.html#validate-by-upload)  
+ 
 
 
 ---
@@ -32,7 +32,6 @@ Your project is complete when you've:
 1. Task
 2. Task
 3. Task
-4. Validated and corrected any errors in your HTML, CSS and JavaScript
 
 > **NOTE:** Focus on mastering these three things. Quality over quantity!
 
