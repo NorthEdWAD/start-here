@@ -20,7 +20,7 @@ Use these attributes to make your forms functional, accessible, and user-friendl
 
 ---
 
-### 3. The "Experience" (Usability)
+### 3. The "Experience" 
 * **`placeholder`**: Temporary "ghost text" that shows a hint or example of what to type. It disappears as soon as the user starts typing.
     * *Example:* `<input placeholder="e.g. John Doe">`
 * **`autocomplete`**: Helps the browser remember what the user typed before (like "name", "email", or "tel").
@@ -40,5 +40,5 @@ Use these attributes to make your forms functional, accessible, and user-friendl
 ### 💡 Pro Tip: ID vs. Name
 | Attribute | Who uses it? | Purpose |
 | :--- | :--- | :--- |
-| **`id`** | The Browser / CSS | Designing the look and targeting with JS. |
+| **`id`** | The Browser / CSS | Designing the look and targeting with JavaScript. |
 | **`name`** | The Server / URL | Identifying which "bucket" the data belongs in. |
