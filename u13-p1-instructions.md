@@ -12,17 +12,16 @@ You'll learn how to build a basic form that uses a submit button and text and em
 **Step 1:** Open your code editor.  
 **Step 2:** Use the starter code below to begin your project.
 
-💾 [Insert Gist Link Here](url)  
-💾 [Insert Gist Link Here](url)  
-💾 [Insert Gist Link Here](url)
+💾 [Email form field example](https://gist.github.com/bengal865/095aec40bc6f3fe0df1fcaf4f120f002)  
+💾 [Text form field example](https://gist.github.com/bengal865/5b70d11472f2bda37e0b431dbdb8dc42)  
+💾 [Form submit button example]]([url](https://gist.github.com/bengal865/85e38f7b4dfe735923f6953076d73d19))
 
 ---
 
 ### 💡 Additional Resources  
-📚 Reading  
-🎥 Video  
- 
-
+📚 Unit 13 Project 1 Cheat Sheet
+📚 Unit 13 Project 1 Quick Start
+📚 Unit 13 Project 1 Instructions
 
 ---
 
