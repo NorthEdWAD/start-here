@@ -17,14 +17,14 @@ Everything goes inside these tags.
 
 ### 2. The Inputs (`<input>`)
 
-This is where the user types. The `type` attribute tells the browser what kind of box to show.
+This is where the user types in their information. The `type` attribute tells the browser what kind of form field to display.
 
 * **Text:** `<input type="text">` (Standard box)
 * **Email:** `<input type="email">` (Checks for the "@")
 
 ### 3. The Submit Button (`<button>`)
 
-Without this, the data stays on the screen and goes nowhere.
+Without this, the user's data stays on the screen and goes nowhere.
 
 ```html
 <button type="submit">Send It!</button>
