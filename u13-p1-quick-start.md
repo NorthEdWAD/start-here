@@ -34,7 +34,7 @@ Without this, the user's data stays on the screen and goes nowhere.
 ---
 
 
-## 🧠 Essential "Minimal" Concepts
+## 🧠 Essential Concepts
 
 If you want your form to actually work like a real form, remember this:
 
