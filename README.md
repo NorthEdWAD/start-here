@@ -16,7 +16,7 @@
 
 ## 📖 Class Units
 
-Click the arrow to view the unit info.  
+Click the arrow to view the project directions for the unit.
 
 <details>
   <summary>Unit 01: HTML</summary>
