@@ -20,6 +20,9 @@
 ---
 
 ### 💡 Additional Resources  
+
+Please read these resources in the repository for this project.
+
 📚 Unit 13 Project 1 Cheat Sheet  
 📚 Unit 13 Project 1 Quick Start  
 📚 Unit 13 Project 1 Instructions  
