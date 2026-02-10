@@ -17,7 +17,7 @@
 ## 📖 Class Units
 
 Click the arrow to view the project directions for the unit.
-
+<!--
 <details>
   <summary>Unit 01: HTML</summary>
   <ul>
@@ -25,6 +25,7 @@ Click the arrow to view the project directions for the unit.
     <li>Project 001: <a href="URL">Link</a></li>
   </ul>
 </details>
+-->
 
 <details>
   <summary>Unit 02: CSS</summary>
@@ -34,6 +35,7 @@ Click the arrow to view the project directions for the unit.
   </ul>
 </details>
 
+<!--
 <details>
   <summary>Unit 03: JavaScript</summary>
   <ul>
@@ -41,5 +43,5 @@ Click the arrow to view the project directions for the unit.
     <li>Project 001: <a href="URL">Link</a></li>
   </ul>
 </details>
-
+-->
 ---
