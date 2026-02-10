@@ -43,7 +43,7 @@ If you want your form to actually work like a real form, remember this:
 * *Example:* `<input placeholder="Enter your first name...">`
 
 
-* **`required`**: Add this single word to any input to make it a required form field. If the user skips it, the browser will stop them automatically.
+* **`required`**: Add this **attribute** to any input field to make it a required form field. If the user skips it, the browser will stop them automatically.
 
 ---
 
