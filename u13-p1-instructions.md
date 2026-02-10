@@ -19,9 +19,9 @@ You'll learn how to build a basic form that uses a submit button and text and em
 ---
 
 ### 💡 Additional Resources  
-📚 Unit 13 Project 1 Cheat Sheet
-📚 Unit 13 Project 1 Quick Start
-📚 Unit 13 Project 1 Instructions
+📚 Unit 13 Project 1 Cheat Sheet  
+📚 Unit 13 Project 1 Quick Start  
+📚 Unit 13 Project 1 Instructions  
 
 ---
 
