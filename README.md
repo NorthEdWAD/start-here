@@ -16,10 +16,25 @@
 
 ## 📖 Class Units
 
+Click the arrow to view the unit info.
 <details>
-  <summary>Click to view the repository</summary>
-  
-  Check out the source code here: [My Project Repo](https://github.com/user/repo)
+  <summary>Unit 01: HTML</summary>
+
+  - Project 002: [My Project Repo](https://github.com/user/repo)    
+  - Project 001: [My Project Repo](https://github.com/user/repo)
+</details>
+
+  <summary>Unit 01: CSS</summary>
+
+  - Project 002: [My Project Repo](https://github.com/user/repo)    
+  - Project 001: [My Project Repo](https://github.com/user/repo)
+</details>
+
+
+  <summary>Unit 01: JavaScript</summary>
+
+  - Project 002: [My Project Repo](https://github.com/user/repo)    
+  - Project 001: [My Project Repo](https://github.com/user/repo)
 </details>
 
 ---
