@@ -16,23 +16,30 @@
 
 ## 📖 Class Units
 
-Click the arrow to view the unit info.
+Click the arrow to view the unit info.  
+
 <details>
   <summary>Unit 01: HTML</summary>
-    - Project 002: [My Project Repo](https://github.com/user/repo)   
-    - Project 001: [My Project Repo](https://github.com/user/repo)
+  <ul>
+    <li>Project 002: <a href="URL">Link</a></li>
+    <li>Project 001: <a href="URL">Link</a></li>
+  </ul>
 </details>
 
 <details>
-  <summary>Unit 01: CSS</summary>
-    - Project 002: [My Project Repo](https://github.com/user/repo)     
-    - Project 001: [My Project Repo](https://github.com/user/repo)
+  <summary>Unit 02: CSS</summary>
+  <ul>
+    <li>Project 002: <a href="URL">Link</a></li>
+    <li>Project 001: <a href="URL">Link</a></li>
+  </ul>
 </details>
 
 <details>
-  <summary>Unit 01: JavaScript</summary>
-    - Project 002: [My Project Repo](https://github.com/user/repo)  
-    - Project 001: [My Project Repo](https://github.com/user/repo)
+  <summary>Unit 03: JavaScript</summary>
+  <ul>
+    <li>Project 002: <a href="URL">Link</a></li>
+    <li>Project 001: <a href="URL">Link</a></li>
+  </ul>
 </details>
 
 ---
