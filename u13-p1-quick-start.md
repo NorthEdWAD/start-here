@@ -51,7 +51,7 @@ If you want your form to actually work like a real form, remember this:
 
 **Did your form not work? Check for these common form mistakes:**
 
-1. **No SUBMIT utton?** Make sure you type your `<button>` element *before* the `</form>` tag.
+1. **No SUBMIT button?** Make sure you type your `<button>` element *before* the `</form>` tag.
 2. **Email form field not validating?** Make sure you typed `type="email"`, not `type="mail"`.
 
 ---
