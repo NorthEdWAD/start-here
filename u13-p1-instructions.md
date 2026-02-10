@@ -30,9 +30,9 @@ You'll learn how to build a basic form that uses a submit button and text and em
 
 Your project is complete when you've:  
 
-1. added 
-2. Task
-3. Task
+1. added two text fields and an email field to your form
+2. added a submit button 
+3. used the `<form>` element to add a form to your page
 
 > **NOTE:** Focus on mastering these three things. Quality over quantity!
 
