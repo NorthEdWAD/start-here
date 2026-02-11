@@ -1,9 +1,10 @@
-# Standards & Evaluation
+### Standards & Evaluation
 
 - [Coding Scale](https://github.com/bengal865/web-year/wiki/html%E2%80%90grading%E2%80%90rubric)
 
 - [Web project checklist](https://github.com/bengal865/web-year/wiki/web%E2%80%90project%E2%80%90checklist)
 
+---
 
 ### ⚡ Quick Access
 
@@ -12,6 +13,8 @@
 * [Bro Code: JavaScript](https://youtube.com/playlist?list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv&si=9AhKvC9ajwZiK9ej)
 * [Mosh: JavaScript](https://youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&si=nH6K_6K6jOUC3CnL)
 * [Traversy Media: JavaScript for Beginners](https://youtu.be/hdI2bqOjy3c?si=q99UMBD1XGxNZmJx)
+
+---
 
 ### Online Validators (HTML & CSS)
 
