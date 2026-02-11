@@ -1,3 +1,17 @@
+### Current Project
+
+- [Groups](https://github.com/NorthEdWAD/start-here/wiki/Groups)
+- [Unit 13 HTML Forms](https://github.com/NorthEdWAD/start-here/wiki/Unit-13-HTML-Forms)
+
+---
+
+### Online Validators (HTML & CSS)
+
+* [W3C HTML Online Validator](https://validator.w3.org/#validate_by_upload)  
+* [W3C CSS Validator (Jigsaw)](https://jigsaw.w3.org/css-validator/#validate_by_upload)
+
+---
+
 ### Standards & Evaluation
 
 - [Coding Scale](https://github.com/bengal865/web-year/wiki/html%E2%80%90grading%E2%80%90rubric)
@@ -16,14 +30,6 @@
 
 ---
 
-### Online Validators (HTML & CSS)
 
-* [W3C HTML Online Validator](https://validator.w3.org/#validate_by_upload)  
-* [W3C CSS Validator (Jigsaw)](https://jigsaw.w3.org/css-validator/#validate_by_upload)
 
----
 
-### Current Project
-
-- [Groups](https://github.com/NorthEdWAD/start-here/wiki/Groups)
-- [Unit 13 HTML Forms](https://github.com/NorthEdWAD/start-here/wiki/Unit-13-HTML-Forms)
