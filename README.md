@@ -25,5 +25,5 @@
 
 ### Current Project
 
-- [Groups](url)
+- [Groups](https://github.com/NorthEdWAD/start-here/wiki/Groups)
 - [u13-p1-instructions](https://github.com/NorthEdWAD/instructions/blob/main/u13-p1-instructions.md)
