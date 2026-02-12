@@ -1,5 +1,5 @@
-### Compare the Forms
-## Which is more user-friendly?  Which form has the better overall design? Why?
+## Compare the Forms
+### Which is more user-friendly?  Which form has the better overall design? Why?
 
 <img width="538" height="440" alt="image" src="https://github.com/bengal865/media/blob/main/shipping-form-a.png">
 
