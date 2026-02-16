@@ -1,4 +1,4 @@
-### Current Project
+### Recent Projects
 
 - [U13 Project 1: Bare Bones Web Form](https://github.com/NorthEdWAD/start-here/blob/main/u13-p1-instructions.md)
 
