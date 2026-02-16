@@ -1,6 +1,6 @@
 # 🛠️ HTML5 Form Attributes
 
-Use these attributes to make your forms functional, accessible, and user-friendly.
+Use these attributes to make your forms functional, easy for people with disabilities to use, and user-friendly in general.
 
 ---
 
