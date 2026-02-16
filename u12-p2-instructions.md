@@ -32,6 +32,9 @@ Please read these resources in the repository for this project.
 -->
 📚 [HTML Input Types](https://www.w3schools.com/html/html_form_input_types.asp) (w3schools.com)
 
+<!--
+🎥 [HTML Forms & Inputs in 7 Minutes](https://youtu.be/H9zdfZrFUp0?si=XyeXVI8fR8kti0Nv)
+-->
 
 ---
 
