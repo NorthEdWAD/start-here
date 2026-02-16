@@ -1,9 +1,9 @@
 ### Current Project
 
 - [U13 Project 1: Bare Bones Web Form](https://github.com/NorthEdWAD/start-here/blob/main/u13-p1-instructions.md)
-<!--
+
 - [U13 Project 2: Shipping Form](https://github.com/NorthEdWAD/start-here/blob/main/u12-p2-instructions.md)
--->
+
 
 ---
 
