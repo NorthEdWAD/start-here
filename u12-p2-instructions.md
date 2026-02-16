@@ -7,7 +7,7 @@
 
 ### 🎯 The Objective  
 
-> You'll learn how to build a shipping form that uses a variety of form input fields, including text, email, dropdown, radio inputs.  This form will also use a SUBMIT button.
+> You'll learn how to build a shipping form that uses a variety of form input fields, including text, email, dropdown, and radio inputs.  This form will also use a SUBMIT button.
   
 ---
 
