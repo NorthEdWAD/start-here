@@ -25,7 +25,7 @@ Use these attributes to make your forms functional, easy for people with disabil
     * *Example:* `<input placeholder="e.g. John Doe">`
 * **`autocomplete`**: Helps the browser remember what the user typed before (like "name", "email", or "tel").
     * *Example:* `<input autocomplete="email">`
-* **`autofocus`**: Automatically puts the cursor in this field as soon as the page loads.
+* **`autofocus`**: Automatically puts the cursor in this field as soon as the page loads in a web browser.
 
 ---
 
