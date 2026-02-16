@@ -1,7 +1,7 @@
 # 013 HTML Forms
 ## Project 2: Shipping Form
 
-[Return to start-here repo](https://github.com/NorthEdWAD/start-here)  
+[Return to start-here README](https://github.com/NorthEdWAD/start-here/blob/main/README.md)  
 
 ---
 
