@@ -7,7 +7,7 @@ Use these attributes to make your forms functional, easy for people with disabil
 ### 1. Form Field Identification
 * **`id`**: The unique name for the element. Think of this as a "Social Security Number"—no two elements on a page should have the same ID. Essential for CSS styling and JavaScript.
     * *Example:* `<input id="user-email">`
-* **`name`**: The label for the data sent to the web server. If you don't have a `name`, the data doesn't exist when you hit Submit!
+* **`name`**: The label for the data sent to the web server. If you don't have a `name` for your input field, the data from that input field doesn't exist when you hit Submit!
     * *Example:* `<input name="email_address">` → Results in `?email_address=user@test.com`
 
 ---
