@@ -4,7 +4,7 @@ Use these attributes to make your forms functional, accessible, and user-friendl
 
 ---
 
-### 1. The "Must-Haves" (Identification)
+### 1. Form Field Identification
 * **`id`**: The unique name for the element. Think of this as a "Social Security Number"—no two elements on a page should have the same ID. Essential for CSS styling and JavaScript.
     * *Example:* `<input id="user-email">`
 * **`name`**: The label for the data sent to the server. If you don't have a `name`, the data doesn't exist when you hit Submit!
@@ -12,7 +12,7 @@ Use these attributes to make your forms functional, accessible, and user-friendl
 
 ---
 
-### 2. The "Rules" (Validation)
+### 2. Validation
 * **`required`**: A boolean attribute that prevents the form from submitting if the field is empty. The browser will show a warning automatically.
     * *Example:* `<input type="text" required>`
 * **`readonly`**: The user can see the text and highlight it, but they cannot change it.
@@ -20,7 +20,7 @@ Use these attributes to make your forms functional, accessible, and user-friendl
 
 ---
 
-### 3. The "Experience" 
+### 3. Making a Form User-Friendly
 * **`placeholder`**: Temporary "ghost text" that shows a hint or example of what to type. It disappears as soon as the user starts typing.
     * *Example:* `<input placeholder="e.g. John Doe">`
 * **`autocomplete`**: Helps the browser remember what the user typed before (like "name", "email", or "tel").
@@ -29,7 +29,7 @@ Use these attributes to make your forms functional, accessible, and user-friendl
 
 ---
 
-### 4. The "State" (Selection)
+### 4. Making Selections
 * **`checked`**: Used for `radio` buttons and `checkboxes`. It makes the option "pre-selected" when the page loads.
     * *Example:* `<input type="checkbox" checked>`
 * **`value`**: Defines the specific data sent to the server. For text inputs, it sets "default text." For buttons/radios, it defines the hidden data.
