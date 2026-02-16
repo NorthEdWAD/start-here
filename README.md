@@ -4,6 +4,13 @@
 
 ---
 
+### Certification Preparation
+
+- [uCertify Login Page](https://ciw.ucertify.com/login.php)
+- [Certification Lab Due Dates](url)
+
+---
+
 ### Online Validators (HTML & CSS)
 
 * [W3C HTML Online Validator](https://validator.w3.org/#validate_by_upload)  
