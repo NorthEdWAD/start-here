@@ -1,6 +1,6 @@
 # 013 HTML Forms
 
-## 🚀 Quick Start: A Bare Bones Web Form
+## 🚀 Quick Start
 
 To make a web form, you only need three things: the **container**, the **inputs**, and the **submit button**.
 
