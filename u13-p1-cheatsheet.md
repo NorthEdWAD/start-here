@@ -40,5 +40,5 @@ Use these attributes to make your forms functional, easy for people with disabil
 ### 💡 Pro Tip: ID vs. Name
 | Attribute | Who uses it? | Purpose |
 | :--- | :--- | :--- |
-| **`id`** | The Browser / CSS | Controls the styling of the form field and targets the form field when you use JavaScript. |
+| **`id`** | The Browser / CSS | Controls the styling of the form field and targets the form field when you use JavaScript with your form. |
 | **`name`** | The Server / URL | Identifying which "bucket" the data from the form field belongs in. |
