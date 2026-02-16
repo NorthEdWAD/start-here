@@ -39,7 +39,7 @@ Please read these resources in the repository for this project.
 
 Your project is complete when you've:  
 
-1. added the designated input fields to your shipping form
+1. added the designated input fields to your shipping form (see TODO comments in starter file)
 2. added a submit button to the shipping form
 3. used the HTML `<form>` element to start adding a form to your page
 
