@@ -30,6 +30,7 @@ Please read these resources in the repository for this project.
 <!--
 📚 [Unit 13 Project 1 Cheat Sheet](https://github.com/NorthEdWAD/start-here/blob/main/u13-p1-cheatsheet.md)  
 -->
+📚 [w3schools.com HTML Input Types](https://www.w3schools.com/html/html_form_input_types.asp)
 
 
 ---
