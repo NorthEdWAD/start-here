@@ -1,5 +1,5 @@
 # 013 HTML Forms
-## Project 1: Bare Bones Web Form
+## Project 2: Shipping Form
 
 [Return to start-here repo](https://github.com/NorthEdWAD/start-here)  
 
@@ -7,7 +7,7 @@
 
 ### 🎯 The Objective  
 
-> You'll learn how to build a basic form that uses a submit button and text and email form fields.
+> You'll learn how to build a shipping form that uses a variety of form input fields, including text, email, dropdown, radio inputs.  This form will also use a SUBMIT button.
   
 ---
 
