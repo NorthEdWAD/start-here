@@ -27,9 +27,9 @@
 Please read these resources in the repository for this project.
 
 📚 [Unit 13 Project 1 Quick Start](https://github.com/NorthEdWAD/start-here/blob/main/u13-p1-quick-start.md)  
-<!--
+
 📚 [Unit 13 Project 1 Cheat Sheet](https://github.com/NorthEdWAD/start-here/blob/main/u13-p1-cheatsheet.md)  
--->
+
 
 
 ---
