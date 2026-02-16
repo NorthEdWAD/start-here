@@ -40,7 +40,7 @@ Your project is complete when you've:
 
 1. added two text fields and an email field to your form
 2. added a submit button to the form
-3. used the `<form>` element to add a form to your page
+3. used the HTML `<form>` element to add a form to your page
 
 > **NOTE:** Focus on mastering these three things. Quality over quantity!
 
