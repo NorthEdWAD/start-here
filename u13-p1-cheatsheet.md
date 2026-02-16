@@ -16,7 +16,7 @@ Use these attributes to make your forms functional, easy for people with disabil
 * **`required`**: A boolean attribute that prevents the form from submitting if the field is empty. The browser will show a warning automatically.
     * *Example:* `<input type="text" required>`
 * **`readonly`**: The user can see the text and highlight it, but they cannot change it.
-* **`disabled`**: The user cannot interact with the input at all, and the data is **not** sent when the form is submitted.
+* **`disabled`**: The user cannot interact with the input field at all, and the data is **not** sent when the form is submitted.
 
 ---
 
