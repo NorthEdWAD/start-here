@@ -7,7 +7,7 @@
 ### Certification Preparation
 
 - [uCertify Login Page](https://ciw.ucertify.com/login.php)
-- [Certification Lab Due Dates](url)
+- [Certification Lab Due Dates](https://github.com/NorthEdWAD/start-here/wiki/cert%E2%80%90labs%E2%80%90due%E2%80%90dates)
 
 ---
 
