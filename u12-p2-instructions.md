@@ -18,7 +18,7 @@
 💾 [Email form field example](https://gist.github.com/bengal865/095aec40bc6f3fe0df1fcaf4f120f002)  
 💾 [Text form field example](https://gist.github.com/bengal865/5b70d11472f2bda37e0b431dbdb8dc42)  
 💾 [Form submit button example](https://gist.github.com/bengal865/85e38f7b4dfe735923f6953076d73d19)  
-💾 [Simple form starter file](https://github.com/NorthEdWAD/start-here/blob/main/u13-p1-basic-form.html) (Follow the TODO comments)
+💾 [Shipping form starter file](https://github.com/NorthEdWAD/start-here/blob/main/u13-p1-shipping-form2.html) 
 
 ---
 
